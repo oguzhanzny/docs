@@ -22,4 +22,4 @@ versions:
 5. In the menu to the right of your username, choose a new visibility option:
     - To publicize your membership, choose **Public**.
     - To hide your membership, choose **Private**.
-  ![Organization member visibility link](/assets/images/help/organizations/member-visibility-link.png)
+  ![Organization member visibility link](/assets/images/help/organizations/member-visibility-link.png) 
